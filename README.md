@@ -11,3 +11,5 @@ Here is a photo of the "Clover - Production test menu"
 You might need to pull the power out to back out of some of the application tests. It might also give you a few errors but this doesn't cause any damage to the console or your build. Usually you have to find your way back to a SNES game and run it.
 
 Have fun playing around with the official Nintendo test program.
+
+Just drag the HakchiNintendoTest-ForSNES.zip over to Hakchi like a rom and go!
